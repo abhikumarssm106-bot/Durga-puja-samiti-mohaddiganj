@@ -46,11 +46,11 @@ const Hero = () => {
           className="w-full h-full object-cover object-[75%_center] sm:object-center opacity-80"
         />
         {/* Dark gradient from left for text readability */}
-        <div className="absolute inset-0 bg-gradient-to-r from-black/95 via-black/80 to-black/40 sm:to-transparent"></div>
-        {/* Bottom gradient - stronger on mobile */}
-        <div className="absolute inset-0 bg-gradient-to-t from-black/95 via-black/40 to-black/20 sm:from-black/90 sm:via-transparent sm:to-transparent"></div>
+        <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-black/20 sm:from-black/95 sm:via-black/80 sm:to-transparent"></div>
+        {/* Bottom gradient - lighter on mobile so bg image shows */}
+        <div className="absolute inset-0 bg-gradient-to-t from-black/75 via-black/25 to-black/10 sm:from-black/90 sm:via-transparent sm:to-transparent"></div>
         {/* Top gradient for navbar readability */}
-        <div className="absolute inset-0 bg-gradient-to-b from-black/50 via-transparent to-transparent"></div>
+        <div className="absolute inset-0 bg-gradient-to-b from-black/40 via-transparent to-transparent"></div>
       </div>
 
       <div 
