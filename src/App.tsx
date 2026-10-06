@@ -1,37 +1,61 @@
+import { lazy, Suspense } from 'react';
 import Navbar from './components/Navbar/Navbar';
+import Hero from './components/Hero/Hero';
 import Footer from './components/Footer/Footer';
-import Home from './pages/Home/Home';
-import Schedule from './pages/Schedule/Schedule';
-import Gallery from './pages/Gallery/Gallery';
-import About from './pages/About/About';
-import Venue from './pages/Venue/Venue';
-import Contact from './pages/Contact/Contact';
-import Announcements from './pages/Announcements/Announcements';
+
+// Lazy load all below-fold sections — they won't block initial render
+const About = lazy(() => import('./pages/About/About'));
+const Schedule = lazy(() => import('./pages/Schedule/Schedule'));
+const Gallery = lazy(() => import('./pages/Gallery/Gallery'));
+const Venue = lazy(() => import('./pages/Venue/Venue'));
+const Announcements = lazy(() => import('./pages/Announcements/Announcements'));
+const Contact = lazy(() => import('./pages/Contact/Contact'));
+
+// Lightweight section placeholder while lazy component loads
+const SectionFallback = ({ height = '400px' }: { height?: string }) => (
+  <div
+    style={{ minHeight: height }}
+    className="w-full bg-surface-container-low animate-pulse"
+  />
+);
 
 function App() {
   return (
     <div className="scroll-smooth">
       <Navbar />
       <div id="home">
-        <Home />
+        {/* Hero is above the fold — load eagerly */}
+        <Hero />
       </div>
       <div id="about">
-        <About />
+        <Suspense fallback={<SectionFallback />}>
+          <About />
+        </Suspense>
       </div>
       <div id="schedule">
-        <Schedule />
+        <Suspense fallback={<SectionFallback />}>
+          <Schedule />
+        </Suspense>
       </div>
       <div id="gallery">
-        <Gallery />
+        <Suspense fallback={<SectionFallback height="500px" />}>
+          <Gallery />
+        </Suspense>
       </div>
       <div id="venue">
-        <Venue />
+        <Suspense fallback={<SectionFallback />}>
+          <Venue />
+        </Suspense>
       </div>
       <div id="announcements">
-        <Announcements />
+        <Suspense fallback={<SectionFallback />}>
+          <Announcements />
+        </Suspense>
       </div>
       <div id="contact">
-        <Contact />
+        <Suspense fallback={<SectionFallback />}>
+          <Contact />
+        </Suspense>
       </div>
       <Footer />
     </div>

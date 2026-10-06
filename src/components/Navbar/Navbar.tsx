@@ -102,6 +102,8 @@ const Navbar = () => {
               alt="Mohaddiganj Durga Puja Emblem" 
               className="h-8 sm:h-10 w-auto object-contain drop-shadow-md shrink-0" 
               src="https://lh3.googleusercontent.com/aida/AEtjO1V1rStYQOYMV9P_WCwa8Ox15LSXTcKa1_vbXynzZTrmh1pN6RbBs53H8FlBrVef_dIhN_C_7nsezXHILakwXosjpeQZiVdhanAC4A2Ndcmg8iyWD6YgrgpghKbhiCWAmLMHvxMJFke9yfecxHVak0DkAd_PAoUyaV8Nas9flIykncpiJGXSLJBBl5umcRuHgyapBml83LG22L7VYGyc5w7j1yxRhaLJ8Z4-tpc6LKg6AvIaYVZu1mjSUw"
+              loading="lazy"
+              decoding="async"
             />
             <div className="flex flex-col min-w-0">
               <span className="font-display-hero text-[15px] sm:text-[18px] leading-tight tracking-wide text-white truncate">

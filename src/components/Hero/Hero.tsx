@@ -44,6 +44,9 @@ const Hero = () => {
           src={heroBg}
           alt="Maa Durga Background" 
           className="w-full h-full object-cover object-[75%_center] sm:object-center opacity-80"
+          fetchPriority="high"
+          decoding="sync"
+          loading="eager"
         />
         {/* Dark gradient from left for text readability */}
         <div className="absolute inset-0 bg-gradient-to-r from-black/70 via-black/50 to-black/20 sm:from-black/95 sm:via-black/80 sm:to-transparent"></div>

@@ -27,6 +27,8 @@ const About = () => {
               src="https://lh3.googleusercontent.com/aida-public/AB6AXuAXnFzo1tEdnjgyEHUtIHrgKmTA8JhBYnmqtEMwywtr_WrgtWtzgWM8nWv56MRqKdtUUz23zI54IsVRelev57kQzPCci5wC_eKiRdyBXBdm9B7AYyEAdC5OLPV1nUNMvuUzgaHd1NLiK6av0XAPHZ899yOT9qyeDJJZ-Z7M1KLKJepEu6xgFHt0M6g1P7CnZD1lzZaM_XJQhy3GRYEbFLBgGo8OeppCO5RH_BFybfFglNi3LNBTMGGT" 
               alt="पंडाल की विरासत"
               className="w-full h-full object-cover"
+              loading="lazy"
+              decoding="async"
             />
           </div>
         </div>
@@ -37,6 +39,8 @@ const About = () => {
               src="https://lh3.googleusercontent.com/aida-public/AB6AXuAzD7EEMDBqFt6BQGY8abgM16W7Sva5UIpQaAHNqwUtlBoSXah7Lq40qLYdD6U9RmI23Ap4ZbGwri_e1CFdhgcbv-dp89MH7-cFisiu2BEWKAKM9vE3bPfDCEgkYIwWAAAM22tLwf0F3kcMBJEvd9Gqm7r2qX3SX9chDtmidN1j5SqtpOSngyFepjZ_-6kFF74PpAWq4bYGxuMPnKjbogeVmYshHkCWGgp33cV4WPZpV4Oi9f-WK0Zm" 
               alt="पारंपरिक अनुष्ठान"
               className="w-full h-full object-cover"
+              loading="lazy"
+              decoding="async"
             />
           </div>
           <div className="flex flex-col gap-3 sm:gap-space-md order-1 lg:order-2">
