@@ -1,0 +1,276 @@
+@import "tailwindcss";
+
+@theme {
+  /* ─── Colors ─── */
+  --color-background: #fff8f7;
+  --color-surface-container-lowest: #FFFFFF;
+  --color-surface-container-low: #FBF8F2;
+  --color-on-secondary: #ffffff;
+  --color-surface-bright: #FFFFFF;
+  --color-on-surface-variant: #574142;
+  --color-surface-container-high: #ffe1e1;
+  --color-primary-fixed-dim: #FFB3B9;
+  --color-tertiary-container: #721925;
+  --color-on-secondary-fixed-variant: #5d4200;
+  --color-on-tertiary-fixed: #40000c;
+  --color-on-background: #2a1617;
+  --color-tertiary-fixed: #ffdada;
+  --color-secondary-container: #996F04;
+  --color-primary-fixed: #FFD9DC;
+  --color-surface-container-highest: #E7DDCC;
+  --color-inverse-surface: #261416;
+  --color-primary-container: #781523;
+  --color-on-primary-fixed: #3B000B;
+  --color-surface-variant: #F2E8DC;
+  --color-surface-container: #F6F0E6;
+  --color-secondary-fixed: #ffdea6;
+  --color-inverse-primary: #ffb3b4;
+  --color-secondary-fixed-dim: #f7bd48;
+  --color-inverse-on-surface: #FDF7F5;
+  --color-on-error-container: #93000a;
+  --color-on-secondary-container: #715000;
+  --color-on-error: #ffffff;
+  --color-on-primary-fixed-variant: #781523;
+  --color-surface: #FFFDF9;
+  --color-tertiary-fixed-dim: #ffb3b5;
+  --color-on-tertiary-container: #ff818a;
+  --color-surface-dim: #f6d1d2;
+  --color-tertiary: #560013;
+  --color-outline-variant: #ddc0bf;
+  --color-surface-tint: #781523;
+  --color-outline: #8D7B7B;
+  --color-error: #BA1A1A;
+  --color-on-tertiary: #ffffff;
+  --color-on-secondary-fixed: #241A00;
+  --color-secondary: #7b5800;
+  --color-on-surface: #2a1617;
+  --color-on-primary: #ffffff;
+  --color-on-primary-container: #ff8288;
+  --color-on-tertiary-fixed-variant: #871e2d;
+  --color-error-container: #ffdad6;
+  --color-primary: #570011;
+
+  /* ─── Spacing ─── */
+  --spacing-space-xs: 0.25rem;
+  --spacing-space-sm: 0.5rem;
+  --spacing-space-md: 1rem;
+  --spacing-space-lg: 1.5rem;
+  --spacing-space-xl: 2.5rem;
+  --spacing-margin-sm: 1rem;
+  --spacing-margin: 1.5rem;
+  --spacing-margin-lg: 3rem;
+  --spacing-gutter-sm: 1rem;
+  --spacing-gutter: 1.5rem;
+  --spacing-gutter-lg: 2rem;
+
+  /* ─── Font Family ─── */
+  --font-display-hero: "Rozha One", "Noto Serif Devanagari", "Playfair Display", serif;
+  --font-display-hero-mobile: "Rozha One", "Noto Serif Devanagari", "Playfair Display", serif;
+  --font-headline-lg: "Noto Serif Devanagari", "Playfair Display", serif;
+  --font-headline-lg-mobile: "Noto Serif Devanagari", "Playfair Display", serif;
+  --font-headline-md: "Noto Serif Devanagari", "Playfair Display", serif;
+  --font-headline-sm: "Noto Serif Devanagari", "Playfair Display", serif;
+  --font-title-md: "Plus Jakarta Sans", sans-serif;
+  --font-body-lg: "Plus Jakarta Sans", sans-serif;
+  --font-body-md: "Plus Jakarta Sans", sans-serif;
+  --font-body-sm: "Plus Jakarta Sans", sans-serif;
+  --font-label-md: "Plus Jakarta Sans", sans-serif;
+  --font-label-caps: "Plus Jakarta Sans", sans-serif;
+
+  /* ─── Font Size ─── */
+  --text-display-hero: 54px;
+  --text-display-hero--line-height: 64px;
+  --text-display-hero--letter-spacing: -0.02em;
+  --text-display-hero--font-weight: 700;
+
+  --text-display-hero-mobile: 34px;
+  --text-display-hero-mobile--line-height: 42px;
+  --text-display-hero-mobile--letter-spacing: -0.01em;
+  --text-display-hero-mobile--font-weight: 700;
+
+  --text-headline-lg: 38px;
+  --text-headline-lg--line-height: 46px;
+  --text-headline-lg--font-weight: 600;
+
+  --text-headline-lg-mobile: 26px;
+  --text-headline-lg-mobile--line-height: 34px;
+  --text-headline-lg-mobile--font-weight: 600;
+
+  --text-headline-md: 28px;
+  --text-headline-md--line-height: 36px;
+  --text-headline-md--font-weight: 600;
+
+  --text-headline-sm: 22px;
+  --text-headline-sm--line-height: 30px;
+  --text-headline-sm--font-weight: 600;
+
+  --text-title-md: 18px;
+  --text-title-md--line-height: 26px;
+  --text-title-md--font-weight: 600;
+
+  --text-body-lg: 17px;
+  --text-body-lg--line-height: 28px;
+  --text-body-lg--font-weight: 400;
+
+  --text-body-md: 15px;
+  --text-body-md--line-height: 24px;
+  --text-body-md--font-weight: 400;
+
+  --text-body-sm: 13px;
+  --text-body-sm--line-height: 20px;
+  --text-body-sm--font-weight: 400;
+
+  --text-label-md: 14px;
+  --text-label-md--line-height: 20px;
+  --text-label-md--font-weight: 500;
+
+  --text-label-caps: 12px;
+  --text-label-caps--line-height: 16px;
+  --text-label-caps--letter-spacing: 0.12em;
+  --text-label-caps--font-weight: 700;
+
+  /* ─── Border Radius ─── */
+  --radius-DEFAULT: 0.125rem;
+  --radius-lg: 0.25rem;
+  --radius-xl: 0.5rem;
+  --radius-full: 9999px;
+  --radius-2xl: 1rem;
+  --radius-3xl: 1.5rem;
+}
+
+@layer base {
+  html, body {
+    margin: 0;
+    padding: 0;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+  }
+  html {
+    scroll-behavior: smooth;
+    /* Support iPhone notch/Dynamic Island */
+    padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
+  }
+  body {
+    overscroll-behavior: none;
+    overflow-x: hidden;
+    width: 100%;
+  }
+  main > :first-child {
+    margin-top: 0 !important;
+  }
+  main > :last-child {
+    margin-bottom: 0 !important;
+  }
+  
+  /* Prevent horizontal overflow on all elements */
+  *, *::before, *::after {
+    box-sizing: border-box;
+  }
+  
+  /* Better touch targets for mobile */
+  a, button {
+    -webkit-tap-highlight-color: transparent;
+  }
+  
+  /* Prevent text selection issues on mobile */
+  img {
+    -webkit-user-drag: none;
+    user-select: none;
+  }
+  
+  /* Fix input zoom on iOS (16px min prevents Safari zoom) */
+  input, select, textarea {
+    font-size: 16px !important;
+  }
+  
+  @media (min-width: 768px) {
+    input, select, textarea {
+      font-size: inherit !important;
+    }
+  }
+}
+
+/* Smooth scrollbar hiding */
+::-webkit-scrollbar {
+  display: none;
+}
+
+html {
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+/* Custom animations */
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInRight {
+  from {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes slideOutRight {
+  from {
+    opacity: 1;
+    transform: translateX(0);
+  }
+  to {
+    opacity: 0;
+    transform: translateX(100%);
+  }
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes pulseGlow {
+  0%, 100% {
+    box-shadow: 0 0 10px rgba(242, 201, 76, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 25px rgba(242, 201, 76, 0.6);
+  }
+}
+
+.animate-fadeInUp {
+  animation: fadeInUp 0.6s ease-out both;
+}
+
+.animate-slideInRight {
+  animation: slideInRight 0.35s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.3s ease-out both;
+}
+
+.animate-pulseGlow {
+  animation: pulseGlow 2s ease-in-out infinite;
+}
+
+/* Stagger delays for children animations */
+.stagger-1 { animation-delay: 0.05s; }
+.stagger-2 { animation-delay: 0.1s; }
+.stagger-3 { animation-delay: 0.15s; }
+.stagger-4 { animation-delay: 0.2s; }
+.stagger-5 { animation-delay: 0.25s; }
+.stagger-6 { animation-delay: 0.3s; }
+.stagger-7 { animation-delay: 0.35s; }

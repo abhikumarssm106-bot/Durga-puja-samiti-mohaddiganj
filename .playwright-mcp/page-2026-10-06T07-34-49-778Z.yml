@@ -1,0 +1,366 @@
+- generic [ref=f2e3]:
+  - banner [ref=f2e4]:
+    - generic [ref=f2e5]:
+      - link "Mohaddiganj Durga Puja Emblem दुर्गा पूजा समिति मोहद्दीगंज" [ref=f2e6] [cursor=pointer]:
+        - /url: "#home"
+        - img "Mohaddiganj Durga Puja Emblem" [ref=f2e7]
+        - generic [ref=f2e8]:
+          - generic [ref=f2e9]: दुर्गा पूजा समिति
+          - generic [ref=f2e10]: मोहद्दीगंज
+      - button "Toggle menu" [ref=f2e11]:
+        - generic [ref=f2e12]: menu
+  - main [ref=f2e14]:
+    - generic [ref=f2e15]:
+      - img "Maa Durga Background" [ref=f2e17]
+      - generic [ref=f2e21]:
+        - generic [ref=f2e22]:
+          - generic [ref=f2e23]: local_florist
+          - generic [ref=f2e24]: "|| जय माता दी ||"
+          - heading "दुर्गा पूजा समिति मोहद्दीगंज" [level=1] [ref=f2e27]:
+            - generic [ref=f2e28]: दुर्गा पूजा
+            - generic [ref=f2e29]: समिति मोहद्दीगंज
+        - generic [ref=f2e30]:
+          - generic [ref=f2e31]:
+            - generic [ref=f2e32]: location_on
+            - generic [ref=f2e33]: मोहद्दीगंज, सासाराम
+          - generic [ref=f2e34]:
+            - generic [ref=f2e35]: calendar_month
+            - generic [ref=f2e36]: 11 अक्टूबर 2026
+        - generic [ref=f2e37]:
+          - generic [ref=f2e38]: "-◇-"
+          - paragraph [ref=f2e39]: भक्ति और उल्लास में एकजुट
+          - generic [ref=f2e40]: "-◇-"
+        - generic [ref=f2e41]:
+          - paragraph [ref=f2e42]: दुर्गा पूजा शुरू होने में...
+          - generic [ref=f2e43]:
+            - generic [ref=f2e45]:
+              - generic [ref=f2e46]: "04"
+              - generic [ref=f2e47]: दिन
+            - generic [ref=f2e50]:
+              - generic [ref=f2e51]: "10"
+              - generic [ref=f2e52]: घंटे
+            - generic [ref=f2e55]:
+              - generic [ref=f2e56]: "55"
+              - generic [ref=f2e57]: मिनट
+            - generic [ref=f2e60]:
+              - generic [ref=f2e61]: "11"
+              - generic [ref=f2e62]: सेकंड
+        - link "दर्शन करें arrow_forward" [ref=f2e64] [cursor=pointer]:
+          - /url: "#schedule"
+          - generic [ref=f2e65]: दर्शन करें
+          - generic [ref=f2e66]: arrow_forward
+  - generic [ref=f2e69]:
+    - generic [ref=f2e70]:
+      - text: हमारी विरासत
+      - heading "मोहद्दीगंज दुर्गा पूजा समिति के बारे में" [level=1] [ref=f2e71]
+    - generic [ref=f2e72]:
+      - generic [ref=f2e73]:
+        - heading "हमारी कहानी" [level=2] [ref=f2e74]
+        - generic [ref=f2e75]:
+          - paragraph [ref=f2e76]: मोहद्दीगंज के दूरदर्शी बुजुर्गों द्वारा आधी सदी से भी पहले स्थापित, हमारी समिति पारंपरिक वैदिक पूजा को बनाए रखने के लिए प्रतिबद्ध एक गैर-लाभकारी सांस्कृतिक ट्रस्ट के रूप में कार्य करती है। 1970 में एक मामूली सामुदायिक सभा के रूप में जो शुरू हुआ, वह अब सासाराम, रोहतास जिले में सबसे प्रतिष्ठित सार्वजनिक दुर्गा पूजा समारोहों में से एक बन गया है।
+          - paragraph [ref=f2e77]: हमारी यात्रा अनगिनत निवासियों, स्थानीय व्यवसायों और लौटने वाले प्रवासियों की भक्ति से बुनी गई है जो नवरात्रि के दौरान मोहद्दीगंज को अपने आध्यात्मिक लंगर के रूप में देखते हैं।
+      - img "पंडाल की विरासत" [ref=f2e79]
+    - generic [ref=f2e80]:
+      - img "पारंपरिक अनुष्ठान" [ref=f2e82]
+      - generic [ref=f2e83]:
+        - heading "हमारी परंपरा" [level=2] [ref=f2e84]
+        - generic [ref=f2e85]:
+          - paragraph [ref=f2e86]: हम शुद्ध शास्त्रीय अनुष्ठानों के प्रति अपनी प्रतिबद्धता में दृढ़ हैं। महा षष्ठी को कल्पारंभ से लेकर विजयादशमी को विसर्जन तक, प्रत्येक समारोह वैदिक आदेशों के अनुसार सख्ती से आयोजित किया जाता है।
+          - paragraph [ref=f2e87]: हमें अपने 'महा भोग' पर गर्व है - अत्यधिक स्वच्छता और भक्ति के साथ तैयार किया गया एक भव्य सामुदायिक भोज, जो जाति, पंथ या पृष्ठभूमि की परवाह किए बिना 30,000 से अधिक भक्तों को बिना शर्त परोसा जाता है।
+    - generic [ref=f2e88]:
+      - heading "हमारे मूल मूल्य" [level=2] [ref=f2e89]
+      - generic [ref=f2e90]:
+        - generic [ref=f2e91]:
+          - generic [ref=f2e92]: psychiatry
+          - heading "भक्ति" [level=3] [ref=f2e94]
+          - paragraph [ref=f2e95]: माँ दुर्गा और उनकी शाश्वत कृपा के प्रति अटूट विश्वास और समर्पण।
+        - generic [ref=f2e96]:
+          - generic [ref=f2e97]: history_edu
+          - heading "परंपरा" [level=3] [ref=f2e99]
+          - paragraph [ref=f2e100]: पैतृक अनुष्ठानों और शाक्त पूजा के प्रामाणिक सार का संरक्षण।
+        - generic [ref=f2e101]:
+          - generic [ref=f2e102]: palette
+          - heading "संस्कृति" [level=3] [ref=f2e104]
+          - paragraph [ref=f2e105]: लोक कलाओं, शास्त्रीय संगीत और स्थानीय शिल्प कौशल के लिए एक जीवंत मंच।
+        - generic [ref=f2e106]:
+          - generic [ref=f2e107]: diversity_1
+          - heading "समुदाय" [level=3] [ref=f2e109]
+          - paragraph [ref=f2e110]: सभी निवासियों के बीच एकता, स्वयंसेवा और आपसी सम्मान को बढ़ावा देना।
+  - generic [ref=f2e113]:
+    - generic [ref=f2e114]:
+      - text: पवित्र समय
+      - heading "पूजा कार्यक्रम" [level=1] [ref=f2e115]
+      - paragraph [ref=f2e116]: दिव्य समारोहों में हमारे साथ शामिल हों। कृपया ध्यान दें कि हमारे पंडितों द्वारा सटीक चंद्र तिथि गणना के आधार पर समय में मामूली बदलाव हो सकते हैं।
+    - generic [ref=f2e117]:
+      - button "महा षष्ठी" [ref=f2e118]
+      - button "महा सप्तमी" [ref=f2e119]
+      - button "महा अष्टमी" [ref=f2e120]
+      - button "महा नवमी" [ref=f2e121]
+      - button "विजयादशमी" [ref=f2e122]
+    - generic [ref=f2e124]:
+      - generic [ref=f2e125]:
+        - generic [ref=f2e126]: wb_sunny
+        - generic [ref=f2e128]:
+          - generic [ref=f2e129]:
+            - generic [ref=f2e130]:
+              - generic [ref=f2e131]: सुबह 08:00 बजे
+              - generic [ref=f2e132]: सुबह
+            - generic [ref=f2e133]:
+              - generic [ref=f2e134]: location_on
+              - text: मुख्य पंडाल
+          - heading "कल्पारंभ और बोधन" [level=3] [ref=f2e135]
+          - paragraph [ref=f2e136]: पवित्र वैदिक मंत्रों और कलश स्थापना के साथ देवी का आह्वान।
+      - generic [ref=f2e137]:
+        - generic [ref=f2e138]: wb_twilight
+        - generic [ref=f2e140]:
+          - generic [ref=f2e141]:
+            - generic [ref=f2e142]:
+              - generic [ref=f2e143]: शाम 06:30 बजे
+              - generic [ref=f2e144]: शाम
+            - generic [ref=f2e145]:
+              - generic [ref=f2e146]: location_on
+              - text: मुख्य पंडाल
+          - heading "संध्या आरती" [level=3] [ref=f2e147]
+          - paragraph [ref=f2e148]: पहली शाम की आरती और भव्य पंडाल में भक्तों का स्वागत।
+  - generic [ref=f2e151]:
+    - generic [ref=f2e152]:
+      - text: दृश्य संग्रह
+      - heading "उत्सव गैलरी" [level=1] [ref=f2e153]
+      - paragraph [ref=f2e154]: विभिन्न वर्षों के मोहद्दीगंज दुर्गा पूजा के दिव्य क्षणों, जीवंत सांस्कृतिक प्रदर्शनों और भव्यता का अन्वेषण करें।
+    - generic [ref=f2e155]:
+      - button "सभी" [ref=f2e156]
+      - button "समिति सदस्य" [ref=f2e361]
+      - button "पूजा तैयारियां" [ref=f2e362]
+      - button "स्वागत एवं बैनर" [ref=f2e363]
+    - generic [ref=f2e164]:
+      - generic [ref=f2e190] [cursor=pointer]:
+        - img "श्री दुर्गा पूजा महोत्सव एवं भव्य भण्डारा बैनर के साथ समिति सदस्य" [ref=f2e364]
+        - generic [ref=f2e193]:
+          - text: स्वागत एवं बैनर
+          - paragraph [ref=f2e194]: भव्य महोत्सव बैनर विमोचन
+      - generic [ref=f2e365] [cursor=pointer]:
+        - img "शिव दुर्गा पूजा समिति मोहद्दीगंज का आधिकारिक बैनर प्रस्तुति" [ref=f2e366]
+        - generic [ref=f2e368]:
+          - text: समिति सदस्य
+          - paragraph [ref=f2e369]: समिति बैनर प्रस्तुति
+      - generic [ref=f2e170] [cursor=pointer]:
+        - img "शिव दुर्गा पूजा समिति मोहद्दीगंज के ऊर्जावान युवा कार्यकर्ता" [ref=f2e370]
+        - generic [ref=f2e173]:
+          - text: समिति सदस्य
+          - paragraph [ref=f2e174]: समिति के युवा साथी
+      - generic [ref=f2e371] [cursor=pointer]:
+        - img "सासाराम ओवरब्रिज पर लगा भव्य स्वागत बैनर - रात्रि दृश्य" [ref=f2e372]
+        - generic [ref=f2e374]:
+          - text: स्वागत एवं बैनर
+          - paragraph [ref=f2e375]: ओवरब्रिज स्वागत द्वार (रात्रि)
+      - generic [ref=f2e165] [cursor=pointer]:
+        - img "पूजा की तैयारियों में रसीद और चंदा संग्रह करते समिति सदस्य" [ref=f2e376]
+        - generic [ref=f2e168]:
+          - text: पूजा तैयारियां
+          - paragraph [ref=f2e169]: पूजा तैयारी एवं सहयोग संग्रह
+      - generic [ref=f2e377] [cursor=pointer]:
+        - img "सासाराम स्टेशन फुट ओवरब्रिज पर समिति की पूरी टीम" [ref=f2e378]
+        - generic [ref=f2e380]:
+          - text: समिति सदस्य
+          - paragraph [ref=f2e381]: ओवरब्रिज पर समिति टीम
+      - generic [ref=f2e382] [cursor=pointer]:
+        - img "स्टेशन ओवरब्रिज सीढ़ियों पर बैनर के साथ समिति सदस्य" [ref=f2e383]
+        - generic [ref=f2e385]:
+          - text: स्वागत एवं बैनर
+          - paragraph [ref=f2e386]: युवा कार्यकर्ता एवं स्वागत बैनर
+      - generic [ref=f2e175] [cursor=pointer]:
+        - img "पूजा व्यवस्था और रसीद प्रबंधन में जुटे सदस्य" [ref=f2e387]
+        - generic [ref=f2e178]:
+          - text: पूजा तैयारियां
+          - paragraph [ref=f2e179]: व्यवस्था एवं रसीद वितरण
+      - generic [ref=f2e180] [cursor=pointer]:
+        - img "मोहद्दीगंज में समिति सदस्यों की विचार-विमर्श बैठक" [ref=f2e388]
+        - generic [ref=f2e183]:
+          - text: समिति सदस्य
+          - paragraph [ref=f2e184]: समिति बैठक एवं योजना
+      - generic [ref=f2e185] [cursor=pointer]:
+        - img "मोहद्दीगंज में व्यवस्था और रसीद संभालते कार्यकर्ता" [ref=f2e389]
+        - generic [ref=f2e188]:
+          - text: पूजा तैयारियां
+          - paragraph [ref=f2e189]: क्षेत्रीय सहयोग एवं प्रबंधन
+      - generic [ref=f2e390] [cursor=pointer]:
+        - img "सासाराम रेलवे ओवरब्रिज पर लगा भव्य भण्डारा व पूजा बैनर" [ref=f2e391]
+        - generic [ref=f2e393]:
+          - text: स्वागत एवं बैनर
+          - paragraph [ref=f2e394]: विजयादशमी भव्य भण्डारा बैनर
+  - generic [ref=f2e197]:
+    - generic [ref=f2e198]:
+      - text: तीर्थयात्री मार्गदर्शिका
+      - heading "स्थान और दिशा-निर्देश" [level=1] [ref=f2e199]
+      - paragraph [ref=f2e200]: उत्सव के केंद्र तक अपना रास्ता खोजें। हम मोहद्दीगंज में हमारे साथ शामिल होने के लिए सभी भक्तों का स्वागत करते हैं।
+    - generic [ref=f2e201]:
+      - generic [ref=f2e203]:
+        - heading "मोहद्दीगंज दुर्गा पूजा समिति" [level=2] [ref=f2e204]
+        - generic [ref=f2e205]:
+          - generic [ref=f2e206]:
+            - generic [ref=f2e207]: location_on
+            - generic [ref=f2e208]:
+              - generic [ref=f2e209]: पता
+              - paragraph [ref=f2e210]: मोहद्दीगंज चौक (पुराने देवी स्थान के पास),सासाराम, रोहतास,बिहार 821115,भारत
+          - generic [ref=f2e211]:
+            - generic [ref=f2e212]: directions_car
+            - generic [ref=f2e213]:
+              - generic [ref=f2e214]: पार्किंग
+              - paragraph [ref=f2e215]: मोहद्दीगंज हाई स्कूल ग्राउंड में निर्दिष्ट दोपहिया और चार पहिया पार्किंग उपलब्ध है (मुख्य पंडाल से लगभग 200 मीटर की पैदल दूरी)।
+          - generic [ref=f2e216]:
+            - generic [ref=f2e217]: train
+            - generic [ref=f2e218]:
+              - generic [ref=f2e219]: परिवहन
+              - paragraph [ref=f2e220]: सासाराम जंक्शन रेलवे स्टेशन से सिर्फ 1.5 किमी दूर। ई-रिक्शा और ऑटो-रिक्शा आसानी से उपलब्ध हैं।
+        - link "navigation मानचित्र पर दिशा-निर्देश प्राप्त करें" [ref=f2e222] [cursor=pointer]:
+          - /url: https://maps.google.com/?q=Mohaddiganj+Sasaram+Bihar
+          - generic [ref=f2e223]: navigation
+          - generic [ref=f2e224]: मानचित्र पर दिशा-निर्देश प्राप्त करें
+      - generic [ref=f2e227]:
+        - generic [ref=f2e228]: map
+        - paragraph [ref=f2e229]: मानचित्र पूर्वावलोकन
+        - paragraph [ref=f2e230]: एक बार जब एक सटीक Google मानचित्र एम्बेड URL प्रदान किया जाता है, तो इसे इंटरैक्टिव नेविगेशन के लिए यहां प्रदर्शित किया जाएगा।
+  - generic [ref=f2e233]:
+    - generic [ref=f2e234]:
+      - text: भक्त सूचना बोर्ड
+      - heading "घोषणाएं" [level=1] [ref=f2e235]
+      - paragraph [ref=f2e236]: मोहद्दीगंज में आगामी शरदोत्सव समारोह के लिए नवीनतम समय, मुहूर्त और महत्वपूर्ण सूचनाओं के साथ अपडेट रहें।
+    - generic [ref=f2e237]:
+      - generic [ref=f2e238]:
+        - generic [ref=f2e239]: महत्वपूर्ण
+        - generic [ref=f2e240]:
+          - generic [ref=f2e241]:
+            - generic [ref=f2e242]: wb_twilight
+            - generic [ref=f2e244]: महा सप्तमी
+          - heading "महा आरती और संधि पूजा" [level=3] [ref=f2e245]
+          - paragraph [ref=f2e246]: हजारों भक्तों की उपस्थिति में 108 कमल अर्पण और 108 दीप प्रज्ज्वलन का विशेष समारोह।
+        - generic [ref=f2e247]:
+          - generic [ref=f2e248]: alarm
+          - generic [ref=f2e249]: 07 अक्टूबर, 2024 · शाम 7:00 बजे
+      - generic [ref=f2e250]:
+        - generic [ref=f2e251]: महत्वपूर्ण
+        - generic [ref=f2e252]:
+          - generic [ref=f2e253]:
+            - generic [ref=f2e254]: theater_comedy
+            - generic [ref=f2e256]: महा अष्टमी
+          - heading "भव्य सांस्कृतिक संध्या" [level=3] [ref=f2e257]
+          - paragraph [ref=f2e258]: पारंपरिक धुनुची नाच प्रतियोगिता, प्रामाणिक कासर-घंटा और शंख वादन के साथ।
+        - generic [ref=f2e259]:
+          - generic [ref=f2e260]: alarm
+          - generic [ref=f2e261]: 08 अक्टूबर, 2024 · रात 8:00 बजे
+      - generic [ref=f2e262]:
+        - generic [ref=f2e263]: महत्वपूर्ण
+        - generic [ref=f2e264]:
+          - generic [ref=f2e265]:
+            - generic [ref=f2e266]: water_drop
+            - generic [ref=f2e268]: विजयादशमी
+          - heading "विसर्जन शोभा यात्रा" [level=3] [ref=f2e269]
+          - paragraph [ref=f2e270]: मोहद्दीगंज के निर्धारित ऐतिहासिक मार्गों से होते हुए माँ दुर्गा की भव्य पवित्र विसर्जन यात्रा।
+        - generic [ref=f2e271]:
+          - generic [ref=f2e272]: alarm
+          - generic [ref=f2e273]: 12 अक्टूबर, 2024 · शाम 4:00 बजे
+  - generic [ref=f2e276]:
+    - generic [ref=f2e277]:
+      - text: संपर्क करें
+      - heading "हमसे संपर्क करें" [level=1] [ref=f2e278]
+      - paragraph [ref=f2e279]: हम आपकी पूछताछ, स्वयंसेवक आवेदनों और सुझावों का स्वागत करते हैं।
+    - generic [ref=f2e280]:
+      - generic [ref=f2e281]:
+        - generic [ref=f2e282]:
+          - heading "संपर्क में रहें" [level=3] [ref=f2e283]
+          - paragraph [ref=f2e284]: हमारी समिति के सदस्य जल्द से जल्द आपसे संपर्क करेंगे।
+        - generic [ref=f2e285]:
+          - link "mail ईमेल info@mohaddiganjdurgapuja.com" [ref=f2e286] [cursor=pointer]:
+            - /url: mailto:info@mohaddiganjdurgapuja.com
+            - generic [ref=f2e287]: mail
+            - generic [ref=f2e289]:
+              - generic [ref=f2e290]: ईमेल
+              - generic [ref=f2e291]: info@mohaddiganjdurgapuja.com
+          - link "call फ़ोन +91 80020 00000" [ref=f2e292] [cursor=pointer]:
+            - /url: tel:+918002000000
+            - generic [ref=f2e293]: call
+            - generic [ref=f2e295]:
+              - generic [ref=f2e296]: फ़ोन
+              - text: +91 80020 00000
+          - generic [ref=f2e297]:
+            - generic [ref=f2e298]: location_on
+            - generic [ref=f2e300]:
+              - generic [ref=f2e301]: पता
+              - text: मोहद्दीगंज चौक, सासाराम, बिहार 821115
+        - generic [ref=f2e302]:
+          - heading "हमें फॉलो करें" [level=4] [ref=f2e303]
+          - generic [ref=f2e304]:
+            - link "Facebook" [ref=f2e305] [cursor=pointer]:
+              - /url: https://facebook.com/mohaddiganjdurgapuja
+              - generic [ref=f2e306]: thumb_up
+            - link "Instagram" [ref=f2e307] [cursor=pointer]:
+              - /url: https://instagram.com/mohaddiganjdurgapuja
+              - generic [ref=f2e308]: photo_camera
+            - link "YouTube" [ref=f2e309] [cursor=pointer]:
+              - /url: https://youtube.com/@mohaddiganjdurgapuja
+              - generic [ref=f2e310]: smart_display
+      - generic [ref=f2e311]:
+        - heading "संदेश भेजें" [level=3] [ref=f2e312]
+        - generic [ref=f2e313]:
+          - generic [ref=f2e314]:
+            - generic [ref=f2e315]: पूरा नाम *
+            - textbox "पूरा नाम *" [ref=f2e316]:
+              - /placeholder: अपना नाम दर्ज करें
+          - generic [ref=f2e317]:
+            - generic [ref=f2e318]: ईमेल पता *
+            - textbox "ईमेल पता *" [ref=f2e319]:
+              - /placeholder: अपना ईमेल दर्ज करें
+          - generic [ref=f2e320]:
+            - generic [ref=f2e321]: फ़ोन नंबर
+            - textbox "फ़ोन नंबर" [ref=f2e322]:
+              - /placeholder: अपना फ़ोन नंबर दर्ज करें
+          - generic [ref=f2e323]:
+            - generic [ref=f2e324]: संदेश *
+            - textbox "संदेश *" [ref=f2e325]:
+              - /placeholder: हम आपकी कैसे मदद कर सकते हैं?
+          - button "send संदेश भेजें" [ref=f2e326]:
+            - generic [ref=f2e327]: send
+            - generic [ref=f2e328]: संदेश भेजें
+  - contentinfo [ref=f2e329]:
+    - generic [ref=f2e330]:
+      - generic [ref=f2e331]:
+        - generic [ref=f2e332]:
+          - generic [ref=f2e333]:
+            - generic [ref=f2e334]: temple_hindu
+            - generic [ref=f2e335]: मोहद्दीगंज दुर्गा पूजा
+          - paragraph [ref=f2e336]: सासाराम, बिहार के ऐतिहासिक हृदय में भक्ति, शाश्वत शाक्त अनुष्ठानों, जीवंत संस्कृति और एकजुट सामुदायिक भावना का जश्न मनाना।
+          - generic [ref=f2e337]:
+            - link "Facebook" [ref=f2e338] [cursor=pointer]:
+              - /url: https://facebook.com/mohaddiganjdurgapuja
+              - generic [ref=f2e339]: thumb_up
+            - link "Instagram" [ref=f2e340] [cursor=pointer]:
+              - /url: https://instagram.com/mohaddiganjdurgapuja
+              - generic [ref=f2e341]: photo_camera
+        - generic [ref=f2e342]:
+          - heading "त्वरित लिंक" [level=4] [ref=f2e343]
+          - link "पूजा कार्यक्रम" [ref=f2e344] [cursor=pointer]:
+            - /url: "#schedule"
+          - link "उत्सव गैलरी" [ref=f2e345] [cursor=pointer]:
+            - /url: "#gallery"
+          - link "घोषणाएं" [ref=f2e346] [cursor=pointer]:
+            - /url: "#announcements"
+        - generic [ref=f2e347]:
+          - heading "समिति" [level=4] [ref=f2e348]
+          - link "हमारे बारे में" [ref=f2e349] [cursor=pointer]:
+            - /url: "#about"
+          - link "संपर्क जानकारी" [ref=f2e350] [cursor=pointer]:
+            - /url: "#contact"
+        - generic [ref=f2e351]:
+          - heading "हमसे मिलें" [level=4] [ref=f2e352]
+          - paragraph [ref=f2e353]: मोहद्दीगंज चौक (पुराने देवी स्थान के पास),सासाराम, रोहतास,बिहार 821115
+          - link "mail info@mohaddiganjdurgapuja.com" [ref=f2e354] [cursor=pointer]:
+            - /url: mailto:info@mohaddiganjdurgapuja.com
+            - generic [ref=f2e355]: mail
+            - text: info@mohaddiganjdurgapuja.com
+          - link "call +91 80020 00000" [ref=f2e356] [cursor=pointer]:
+            - /url: tel:+918002000000
+            - generic [ref=f2e357]: call
+            - text: +91 80020 00000
+      - generic [ref=f2e358]:
+        - paragraph [ref=f2e359]: © 2026 मोहद्दीगंज दुर्गा पूजा समिति। सर्वाधिकार सुरक्षित।
+        - paragraph [ref=f2e360]: जय माता दी
